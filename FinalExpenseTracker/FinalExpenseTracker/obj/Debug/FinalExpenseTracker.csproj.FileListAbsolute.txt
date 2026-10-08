@@ -1,0 +1,16 @@
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\bin\Debug\FinalExpenseTracker.exe.config
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\bin\Debug\FinalExpenseTracker.exe
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\bin\Debug\FinalExpenseTracker.pdb
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.Form1.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.Properties.Resources.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.csproj.GenerateResource.cache
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.csproj.CoreCompileInputs.cache
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.exe
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.pdb
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.ExpenseTrackerUc.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.FilterUc.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.PIeChartUc.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.csprojAssemblyReference.cache
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.AddCategoryUc.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.AddExpenseUc.resources
+D:\Tania\FinalExpenseTracker\FinalExpenseTracker\obj\Debug\FinalExpenseTracker.DataViewUc.resources
